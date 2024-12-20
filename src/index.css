@@ -42,6 +42,12 @@ code {
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
+.bgeversecmob{
+  background-image: url(./assets/FirstEver/mobbg.png);
+  background-position: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
 .bgprizsec{
   background-image: url(./assets/PrizeMoneySec//prixebg.png);
   background-position: center;
