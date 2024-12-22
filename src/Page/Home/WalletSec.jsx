@@ -117,7 +117,7 @@ function WalletSec() {
               1 GG = $0.0005
               </h5>
             </div>
-            <div className="pt-[10px] pb-5 space-y-[8px]">
+            <div className=" pb-2 space-y-[8px]">
               <div className="bg-[#FFFFFF47] w-[100%] h-[16px] rounded-[30px]">
                 <div className="bg-[#000] h-[16px] w-[60%] rounded-[30px]"></div>
               </div>
@@ -256,10 +256,10 @@ function WalletSec() {
               Buy $PEGE
               </h3>
               <h5 className="text-[#000] leading-[183.333%] text-[18.364px] font-[700] text-center">
-              1 GG = $0.0005
+              1 GG = $0.0005 
               </h5>
             </div>
-            <div className="pt-[10px] pb-5 space-y-[8px]">
+            <div className="pb-2 space-y-[8px]">
               <div className="bg-[#FFFFFF47] w-[100%] h-[16px] rounded-[30px]">
                 <div className="bg-[#000] h-[16px] w-[60%] rounded-[30px]"></div>
               </div>

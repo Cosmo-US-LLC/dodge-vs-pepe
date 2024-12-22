@@ -1,6 +1,6 @@
 import React, {useEffect,useState } from "react";
-import Home from "./Page/Home/Home";
-import MobileHome from "./Page/MobileHome/MobileHome";
+import Home from "./page/Home/Home";
+import MobileHome from "./page/MobileHome/MobileHome";
 function App() {
   const [isMobile, setIsMobile] = useState(window.innerWidth <= 700);
 
