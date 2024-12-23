@@ -25,16 +25,17 @@ const Rule1 = () => {
         <img src={rule_1} className="h-[131px] w-[144px] mt-2" alt="rule_1" />
         <div className="flex flex-col items-start w-full mt-4 pl-[2rem]">
           <p className="text-[16px] font-[700] leading-[20px] text-[white]">1. Choose Your Champion</p>
-          <ol className="list-disc text-gray-200 pl-5 flex flex-col gap-4 text-base leading-relaxed mt-4">
-            <li className="text-[18px] text-[#FFF] font-[400]">
-              <span className="font-[700]">Team Pepe ($PEGE) –</span> <br />{" "}
-              Join Pepe, the internet’s ultimate rebel. This if for the
+          <ol className="flex flex-col gap-4 pl-5 mt-4 text-base leading-relaxed text-gray-200 list-disc">
+            <li className="text-[#FFF]">
+              <span className="text-[12px] text-[#FFF] font-[700]">Team Pepe ($PEGE) –</span> <br />{" "}
+              <p className="text-[12px] text-[#FFF] font-[400]">Join Pepe, the internet’s ultimate rebel. This if for the
               people who value humor, resilience, and chaos.
+              </p>
             </li>
-            <li className="text-[18px] text-[#FFF] font-[400]">
-              <span className="font-[700]">Team Doge ($DOPE) –</span> <br />{" "}
-              Stand with Doge, the first Meme who started it all. This is
-              for the people who understand and respect the Doge legacy.
+            <li className=" text-[#FFF]">
+              <span className="text-[12px] text-[#FFF] font-[700]">Team Doge ($DOPE) –</span> <br />{" "}
+              <p className="text-[12px] text-[#FFF] font-[400]">Stand with Doge, the first Meme who started it all. This is
+              for the people who understand and respect the Doge legacy.</p>
             </li>
           </ol>
         </div>
@@ -58,7 +59,7 @@ const Rule2 = () => {
         <img src={rule_2} className="h-[131px] w-[144px] mt-2" alt="rule_2" />
         <div className="flex flex-col items-start w-full mt-4 pl-[2rem]">
           <p className="text-[16px] font-[700] leading-[20px] text-[white]">2. Buy To Support Your Team</p>
-          <ol className="list-disc text-gray-200 pl-5 flex flex-col gap-1 text-base leading-relaxed mt-4">
+          <ol className="flex flex-col gap-1 pl-5 mt-4 text-base leading-relaxed text-gray-200 list-disc">
             <li className="text-[12px] text-[#FFF] font-[400]">
               Buy tokens and support your favorite meme.
             </li>
@@ -78,7 +79,7 @@ const Rule2 = () => {
 
 const Rule3 = () => {
   return (
-    <div className="flex flex-col items-center px-4 mt-2 relative">
+    <div className="relative flex flex-col items-center px-4 mt-2">
       <img src={side_dog} className="absolute h-[306px] w-[169px] left-[-36px] top-[-32px]" alt="side_dog" />
       <div
         className="flex flex-col items-center bg-[#181818] rounded-[10px] w-full p-4 mt-4"
@@ -91,7 +92,7 @@ const Rule3 = () => {
         <img src={rule_3} className="h-[131px] w-[144px] mt-2" alt="rule_3" />
         <div className="flex flex-col items-start w-full mt-4 pl-[2rem]">
           <p className="text-[16px] font-[700] leading-[20px] text-[white]">3. The Race To $1 Million</p>
-          <ol className="list-disc text-gray-200 pl-5 flex flex-col gap-1 text-base leading-relaxed mt-4">
+          <ol className="flex flex-col gap-1 pl-5 mt-4 text-base leading-relaxed text-gray-200 list-disc">
             <li className="text-[12px] text-[#FFF] font-[400]">
               The fight is decided when the first team reaches $1 million.
             </li>
@@ -125,7 +126,7 @@ const Rule4 = () => {
         <img src={rule_4} className="h-[131px] w-[144px] mt-2" alt="rule_4" />
         <div className="flex flex-col items-start w-full mt-4 pl-[2rem]">
           <p className="text-[16px] font-[700] leading-[20px] text-[white]">4. The Winner Takes It All</p>
-          <ol className="list-disc text-gray-200 pl-5 flex flex-col gap-4 text-base leading-relaxed mt-4">
+          <ol className="flex flex-col gap-4 pl-5 mt-4 text-base leading-relaxed text-gray-200 list-disc">
             <li className="text-[12px] text-[#FFF] font-[400]">
               The losing team’s funds aren’t wasted. They’re added to the liquidity pool of the winning team, making the winner’s token stronger and more valuable.
             </li>
@@ -154,7 +155,7 @@ const Rule5 = () => {
         <img src={rule_5} className="h-[131px] w-[144px] mt-2" alt="rule_5" />
         <div className="flex flex-col items-start w-full mt-4 pl-[2rem]">
           <p className="text-[16px] font-[700] leading-[20px] text-[white]">5. Rewards For Picking The Winner</p>
-          <ol className="list-disc text-gray-200 pl-5 flex flex-col gap-1 text-base leading-relaxed mt-4">
+          <ol className="flex flex-col gap-1 pl-5 mt-4 text-base leading-relaxed text-gray-200 list-disc">
             <li className="text-[12px] text-[#FFF] font-[400]">
               All participants receive the winning coin.
             </li>
@@ -174,7 +175,7 @@ const Rule5 = () => {
 
 const Rule6 = () => {
   return (
-    <div className="flex flex-col items-center px-4 mt-2 relative">
+    <div className="relative flex flex-col items-center px-4 mt-2">
       <img src={side_frog} className="absolute h-[286px] right-[0px] top-[-32px]" alt="side_frog" />
       <div
         className="flex flex-col items-center bg-[#181818] rounded-[10px] w-full p-4 mt-4"
@@ -187,7 +188,7 @@ const Rule6 = () => {
         <img src={rule_6} className="h-[131px] w-[144px] mt-2" alt="rule_6" />
         <div className="flex flex-col items-start w-full mt-4 pl-[2rem]">
           <p className="text-[16px] font-[700] leading-[20px] text-[white]">6. Transparency And Fairness</p>
-          <ol className="list-disc text-gray-200 pl-5 flex flex-col gap-1 text-base leading-relaxed mt-4">
+          <ol className="flex flex-col gap-1 pl-5 mt-4 text-base leading-relaxed text-gray-200 list-disc">
             <li className="text-[12px] text-[#FFF] font-[400]">
               <b>Public Contracts:</b> Both pre-sale contracts are fully visible to ensure complete transparency.
             </li>
@@ -217,7 +218,7 @@ const Rule7 = () => {
         <div className="flex flex-col items-start w-full mt-4 pl-[2rem]">
           <p className="text-[16px] font-[700] leading-[20px] text-[white]">7. Join The Community</p>
           <p className="mt-2 ml-4 text-[12px] font-[400] leading-[16px] text-[white]">Connect with other participants in our<br /> Telegram channels:</p>
-          <ol className="list-disc text-gray-200 pl-5 flex flex-col gap-1 text-base leading-relaxed mt-4">
+          <ol className="flex flex-col gap-1 pl-5 mt-4 text-base leading-relaxed text-gray-200 list-disc">
             <li className="text-[12px] text-[#FFF] font-[400]">
               <b>General Channel:</b> For updates and discussions. <br />
               <b>Team Pepe Channel:</b> For Pepe supporters.<br />

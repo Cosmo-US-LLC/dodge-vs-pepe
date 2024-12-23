@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../assets/navbar/Frame 1410116534.svg";
+import Logo from "../assets/navbar/navLogo.svg";
 import menu from "../assets/navbar/Group 1410124892.svg";
 
 

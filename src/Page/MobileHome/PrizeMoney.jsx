@@ -1,6 +1,6 @@
 import React from "react";
 import belt from "../../assets/Mobile/belt.svg";
-import prize_money_background from "../../assets/Mobile/prize_money_background.png";
+import prize_money_background from "../../assets/Mobile/prize-money-mobile.svg";
 
 function PrizeMoney() {
     return (
@@ -11,7 +11,9 @@ function PrizeMoney() {
             }}
         >
             <p className="text-[24px] font-[700] leading-[31px] text-[white] mt-4 text-center">
-                Prize Money For The<br /> Winning Team
+                Prize Money For The<br /> <span className="text-[#EFAB00] font-k2d text-[25.954px] font-bold filter blur-[0.156px]">
+  Winning Team
+</span>
             </p>
             <p className="text-[36px] font-[800] leading-[46px] text-[#EFAB00] mt-4 text-center">
                 100’000 USD*
