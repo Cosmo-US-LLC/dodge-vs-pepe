@@ -1,5 +1,5 @@
 import React from "react"
-import Navbar from "../../compunent/navbar";
+import Navbar from "../../component/navbar";
 import MobileHeroSection from "./MobileHeroSection";
 import HeroWalletSec from "./HeroWalletSec";
 import MobileFirstEverSec from "./MobileFirstEverSec";

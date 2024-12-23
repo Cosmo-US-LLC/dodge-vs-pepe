@@ -1,4 +1,4 @@
-import React, {useEffect,useState } from "react";
+import React, { useEffect, useState } from "react";
 import Home from "./Page/Home/Home";
 import MobileHome from "./Page/MobileHome/MobileHome";
 function App() {

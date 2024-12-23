@@ -1,6 +1,6 @@
 import React from "react";
-import imgl from "../../assets/FirstEver/mobve (1).png";
-import imgr from "../../assets/FirstEver/mobve (2).png";
+import firstDoge from "../../assets/Mobile/first-doge.svg";
+import firstPepe from "../../assets/Mobile/first-pepe.svg";
 function MobileFirstEverSec() {
   return (
     <div className="w-[100%] bgeversecmob overflow-hidden w-[100%] relative pt-[60px] pb-[17px]">
@@ -19,8 +19,8 @@ function MobileFirstEverSec() {
        </div>
       </div>
     <div className="min-h-[250px] flex justify-between">
-    <img src={imgl} alt="" />
-    <img src={imgr} alt="" />
+    <img src={firstDoge} alt="firstDoge" className="absolute left-0 bottom-[6px]"/>
+    <img src={firstPepe} alt="firstPepe" className="absolute right-0 bottom-[6px]"/>
     </div>
 
     </div>

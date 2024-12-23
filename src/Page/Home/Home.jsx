@@ -9,9 +9,9 @@ import MilestonesSec from "./MilestonesSec";
 import RoadmapSec from "./RoadmapSec";
 import MadebySec from "./MadebySec";
 import DontWaitSec from "./DontWaitSec";
-import Navbar from "../../compunent/navbar";
+import Navbar from "../../component/navbar";
 import FaqSec from "./FaqSec";
-import Footer from "../../compunent/footer";
+import Footer from "../../component/footer";
 function Home() {
   return (
     <div className="bg-[black] w-[100%]">
