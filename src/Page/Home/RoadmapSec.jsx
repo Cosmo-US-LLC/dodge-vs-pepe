@@ -173,10 +173,10 @@ function RoadmapSec() {
                   </div>
                 </SwiperSlide>
               </Swiper>
-              <div className="!h-[35px] !w-[35px] cursor-pointer swiper-button-next absolute !left-[-10%] !top-[48%] rotate-180" >
+              <div className="!h-[35px] !w-[35px] swiper-button-prev cursor-pointer swiper-button-next absolute !left-[-10%] !top-[48%] rotate-180" >
             <img src={awr1} className="" alt="Previous" />
           </div>
-              <div className="!h-[35px] !w-[35px] cursor-pointer swiper-button-next absolute !right-[-10%] !top-[48%] ">
+              <div className="!h-[35px] !w-[35px] swiper-button-next cursor-pointer swiper-button-next absolute !right-[-10%] !top-[48%] ">
                 <img src={awr1} className="" alt="Next" />
               </div>
             </div>
@@ -334,10 +334,10 @@ function RoadmapSec() {
               {/* <div className="!h-[35px] !w-[35px] swiper-button-prev  absolute !left-[9%] !top-[19%] -translate-y-1/2 bg-[#fff] border border-black p-2 hover:bg-white/90 z-10" >
             <img src={awr1} className="" alt="Previous" />
           </div> */}
-            <div className="!h-[35px] !w-[35px] cursor-pointer swiper-button-next absolute !left-[-10%] !top-[48%] rotate-180" >
+            <div className="!h-[35px] !w-[35px] swiper-button-prev cursor-pointer swiper-button-next absolute !left-[-10%] !top-[48%] rotate-180" >
             <img src={awr1} className="" alt="Previous" />
           </div>
-              <div className="!h-[35px] !w-[35px] swiper-button-next2 cursor-pointer absolute !right-[-10%] !top-[48%] ">
+              <div className="!h-[35px] !w-[35px] swiper-button-next swiper-button-next2 cursor-pointer absolute !right-[-10%] !top-[48%] ">
                 <img src={awr1} className="" alt="Next" />
               </div>
             </div>
