@@ -1,6 +1,6 @@
 import React from "react";
 import prizeimg from "../../assets/PrizeMoneySec/prize-belt.svg";
-import imgr from "../../assets/FirstEver/img (1).png";
+
 function PrizeMoneySec() {
   return (
     <div className="w-[100%] bgprizsec overflow-hidden pt-[60px] pb-[80px]">

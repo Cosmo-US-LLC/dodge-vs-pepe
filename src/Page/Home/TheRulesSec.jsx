@@ -13,10 +13,10 @@ import rightMan from "../../assets/RuleSec/right-crdimg.svg"
 function TheRulesSec() {
   return (
     <div className="relative w-[100%] overflow-hidden w-[100%] py-[36px]">
-      <img src={leftMan} alt="card image" className="min-h-[220px] absolute left-0 top-[37%] z-20" />
+      <img src={leftMan} alt="card_image_1" className="min-h-[220px] absolute left-0 top-[37%] z-20" />
       
       
-      <img src={rightMan} alt="card image" className="min-h-[220px] absolute right-0 top-[62%] z-20" />
+      <img src={rightMan} alt="card_image_2" className="min-h-[220px] absolute right-0 top-[62%] z-20" />
       <div className="max-w-[1143px] space-y-[45px] w-[100%] mx-auto relative min-h-[500px]">
         <div>
           <h3 className="text-[#fff] text-center text-[42px] leading-[104.377%] font-[700]">
@@ -26,7 +26,7 @@ function TheRulesSec() {
         <div className="relative space-y-[30px]">
           <div className="flex Rulesborder justify-between px-[90px] pt-[35px] pb-[25px] items-center w-full bg-[#181818] rounded-[30px] overflow-hidden">
             <div className="w-[40%] flex justify-start">
-              <img src={rule1} alt="card image" className="min-h-[220px]" />
+              <img src={rule1} alt="card_image_3" className="min-h-[220px]" />
             </div>
             <div className="max-w-[727.98px] w-[100%] flex flex-col gap-6">
               <div className="flex items-center gap-3">
@@ -65,12 +65,12 @@ function TheRulesSec() {
               </ol>
             </div>
             <div className="w-[40%] flex justify-end">
-              <img src={rule2} alt="card image" className="min-h-[220px]" />
+              <img src={rule2} alt="card_image_4" className="min-h-[220px]" />
             </div>
           </div>
           <div className="flex Rulesborder justify-between px-[90px] pt-[35px] pb-[25px] items-center w-full bg-[#181818] rounded-[30px] overflow-hidden">
             <div className="w-[40%] flex justify-start">
-              <img src={rule3} alt="card image" className="min-h-[220px]" />
+              <img src={rule3} alt="card_image_5" className="min-h-[220px]" />
             </div>
             <div className="max-w-[655.31px] w-[100%] flex flex-col gap-6">
               <div className="flex items-center gap-3">
@@ -108,12 +108,12 @@ function TheRulesSec() {
               </ol>
             </div>
             <div className="w-[40%] flex justify-end">
-              <img src={rule4} alt="card image" className="min-h-[220px]" />
+              <img src={rule4} alt="card_image_6" className="min-h-[220px]" />
             </div>
           </div>
           <div className="flex justify-between Rulesborder px-[90px] pt-[35px] pb-[25px] items-center w-full bg-[#181818] rounded-[30px] overflow-hidden">
             <div className="w-[40%] flex justify-start">
-              <img src={rule5} alt="card image" className="min-h-[220px]" />
+              <img src={rule5} alt="card_image_7" className="min-h-[220px]" />
             </div>
             <div className="max-w-[655.98px] w-[100%] flex flex-col gap-6">
               <div className="flex items-center gap-3">
@@ -149,12 +149,12 @@ function TheRulesSec() {
               </ol>
             </div>
             <div className="w-[40%] flex justify-end">
-              <img src={rule6} alt="card image" className="min-h-[195px]" />
+              <img src={rule6} alt="card_image_8" className="min-h-[195px]" />
             </div>
           </div>
           <div className="flex justify-between  Rulesborder px-[90px] pt-[35px] pb-[25px] items-start w-full bg-[#181818] rounded-[30px] overflow-hidden">
             <div className="w-[40%] flex justify-start">
-              <img src={rule7} alt="card image" className="min-h-[190px]" />
+              <img src={rule7} alt="card_image_9" className="min-h-[190px]" />
             </div>
             <div className="max-w-[655.98px] w-[100%] flex flex-col gap-6">
               <div className="">
@@ -172,7 +172,7 @@ function TheRulesSec() {
                 </li>
               </ol>
               <div className="pt-[10px]">
-                <button className="bg-[#00B7FF]  max-w-[252px] flex justify-center space-x-2 items-center w-[100%] ml-[6rem] rounded-[5px] h-[39px] uppercase text-[18px] text-[#fff] font-[400]"> Join Telegram <img src={telicn} className="ml-4" alt="" /></button>
+                <button className="bg-[#00B7FF]  max-w-[252px] flex justify-center space-x-2 items-center w-[100%] ml-[6rem] rounded-[5px] h-[39px] uppercase text-[18px] text-[#fff] font-[400]"> Join Telegram <img src={telicn} className="ml-4" alt="card_image_10" /></button>
               </div>
             </div>
           </div>

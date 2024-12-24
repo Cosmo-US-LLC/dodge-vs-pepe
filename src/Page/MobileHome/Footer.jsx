@@ -1,5 +1,4 @@
 import React from "react";
-import Logo from "../../assets/footer/Image (14).png";
 import socialicn1 from "../../assets/footer/soclicn (3).svg";
 import socialicn2 from "../../assets/footer/soclicn (2).svg";
 import socialicn3 from "../../assets/footer/soclicn (1).svg";
@@ -16,40 +15,40 @@ function Footer() {
 
         {/* Links */}
         <div className="flex flex-col gap-2">
-          <a href="#" className="text-[16px] text-[#fff] font-[400] block">
+          <a href="https://example.com" className="text-[16px] text-[#fff] font-[400] block">
             DOGEvsPEPE
           </a>
-          <a href="#" className="text-[16px] text-[#fff] font-[400] block">
+          <a href="https://example.com" className="text-[16px] text-[#fff] font-[400] block">
             The First Ever Crypto Meme Fight
           </a>
-          <a href="#" className="text-[16px] text-[#fff] font-[400] block">
+          <a href="https://example.com" className="text-[16px] text-[#fff] font-[400] block">
             The Rules
           </a>
-          <a href="#" className="text-[16px] text-[#fff] font-[400] block">
+          <a href="https://example.com" className="text-[16px] text-[#fff] font-[400] block">
             Milestones Mystery Reveals
           </a>
-          <a href="#" className="text-[16px] text-[#fff] font-[400] block">
+          <a href="https://example.com" className="text-[16px] text-[#fff] font-[400] block">
             The Community Decides
           </a>
-          <a href="#" className="text-[16px] text-[#fff] font-[400] block">
+          <a href="https://example.com" className="text-[16px] text-[#fff] font-[400] block">
             Roadmap
           </a>
-          <a href="#" className="mt-4 text-[16px] text-[#fff] font-[400] block">
+          <a href="https://example.com" className="mt-4 text-[16px] text-[#fff] font-[400] block">
             $DOPE Tokenomics
           </a>
-          <a href="#" className="text-[16px] text-[#fff] font-[400] block">
+          <a href="https://example.com" className="text-[16px] text-[#fff] font-[400] block">
             $PEPE Tokenomics
           </a>
-          <a href="#" className="text-[16px] text-[#fff] font-[400] block">
+          <a href="https://example.com" className="text-[16px] text-[#fff] font-[400] block">
             Join And Support Your Team On Telegram
           </a>
-          <a href="#" className="text-[16px] text-[#fff] font-[400] block">
+          <a href="https://example.com" className="text-[16px] text-[#fff] font-[400] block">
             Don’t Wait – The Race is On!
           </a>
-          <a href="#" className="text-[16px] text-[#fff] font-[400] block">
+          <a href="https://example.com" className="text-[16px] text-[#fff] font-[400] block">
             Frequently Asked Questions
           </a>
-          <a href="#" className="text-[16px] text-[#fff] font-[400] block">
+          <a href="https://example.com" className="text-[16px] text-[#fff] font-[400] block">
             Need Help?
           </a>
         </div>

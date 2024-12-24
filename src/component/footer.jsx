@@ -22,37 +22,37 @@ function Footer() {
           </div>
           <div className="space-y-[10px]">
             <a
-              href=""
+              href="https://example.com"
               className="text-[18px] text-[#fff] font-[400] leading-[119.856%] block"
             >
               DOGEvsPEPE
             </a>
             <a
-              href=""
+              href="https://example.com"
               className="text-[18px] text-[#fff] font-[400] leading-[119.856%] block"
             >
               The First Ever Crypto Meme Fight
             </a>
             <a
-              href=""
+              href="https://example.com"
               className="text-[18px] text-[#fff] font-[400] leading-[119.856%] block"
             >
               The Rules
             </a>
             <a
-              href=""
+              href="https://example.com"
               className="text-[18px] text-[#fff] font-[400] leading-[119.856%] block"
             >
               Milestones Mystery Reveals
             </a>
             <a
-              href=""
+              href="https://example.com"
               className="text-[18px] text-[#fff] font-[400] leading-[119.856%] block"
             >
               The Community Decides{" "}
             </a>
             <a
-              href=""
+              href="https://example.com"
               className="text-[18px] text-[#fff] font-[400] leading-[119.856%] block"
             >
               Roadmap
@@ -60,37 +60,37 @@ function Footer() {
           </div>
           <div className="space-y-[10px]">
             <a
-              href=""
+              href="https://example.com"
               className="text-[18px] text-[#fff] font-[400] leading-[119.856%] block"
             >
               $DOPE Tokenomics
             </a>
             <a
-              href=""
+              href="https://example.com"
               className="text-[18px] text-[#fff] font-[400] leading-[119.856%] block"
             >
               $PEPE Tokenomics
             </a>
             <a
-              href=""
+              href="https://example.com"
               className="text-[18px] text-[#fff] font-[400] leading-[119.856%] block"
             >
               Join And Support Your Team On Telegram
             </a>
             <a
-              href=""
+              href="https://example.com"
               className="text-[18px] text-[#fff] font-[400] leading-[119.856%] block"
             >
               Don’t Wait – The Race is On!
             </a>
             <a
-              href=""
+              href="https://example.com"
               className="text-[18px] text-[#fff] font-[400] leading-[119.856%] block"
             >
               frequently asked questions
             </a>
             <a
-              href=""
+              href="https://example.com"
               className="text-[18px] text-[#fff] font-[400] leading-[119.856%] block"
             >
               Need Help?
@@ -101,9 +101,9 @@ function Footer() {
               Get updated{" "}
             </h4>
             <div className="flex space-x-2">
-              <img src={socialicn1} alt="" />
-              <img src={socialicn2} alt="" />
-              <img src={socialicn3} alt="" />
+              <img src={socialicn1} alt="socialicn1" />
+              <img src={socialicn2} alt="socialicn2" />
+              <img src={socialicn3} alt="socialicn3" />
             </div>
           </div>
         </div>
